@@ -73,5 +73,5 @@ and provide the new CSV file path as described in the command line args
 ### Command line usage example 
 
 ```bash
-python find_companiation.py --bags-count=2 --show-cost=True
+python find_combaniation.py --bags-count=2 --show-cost=True
 ```
